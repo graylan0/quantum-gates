@@ -1,3 +1,5 @@
+# Colobit Emotional Research, use with caution
+
 ```  ┌──────────┐
 q_0: ┤0         ├
      │  Unitary │
